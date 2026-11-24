@@ -1,4 +1,4 @@
-# au-identifiers
+# Australian ABN, ACN and TFN Validation for Java
 
 Validate and format Australian identifiers in Java: ABN, ACN, ARBN, TFN, Director ID and VIN.
 
