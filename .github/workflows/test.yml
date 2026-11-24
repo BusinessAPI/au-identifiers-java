@@ -12,4 +12,5 @@ jobs:
         with:
           distribution: temurin
           java-version: ${{ matrix.java }}
+          cache: maven
       - run: mvn -B test
