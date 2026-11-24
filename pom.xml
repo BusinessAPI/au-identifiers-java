@@ -8,7 +8,7 @@
   <version>0.1.0</version>
   <packaging>jar</packaging>
 
-  <name>au-identifiers</name>
+  <name>Australian ABN, ACN and TFN Validation for Java</name>
   <description>Validate and format Australian identifiers: ABN, ACN, ARBN, TFN, Director ID and VIN.</description>
   <url>https://github.com/BusinessAPI/au-identifiers-java</url>
 
